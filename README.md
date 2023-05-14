@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-rid&" alt="hi-rid" /></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}" alt"summary-card" />
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={hi-rid}" alt"summary-card" /></p>
