@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-rid&label=Profile%20views&color=0e75b6&style=flat" alt="hi-rid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hi-rid" alt="hi-rid" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://hi-rid.github.io/Portfolio_Ridho_Ramadhan/](https://hi-rid.github.io/Portfolio_Ridho_Ramadhan/)
 
 - 📫 How to reach me **rridhorramadhan@gmail.com**
