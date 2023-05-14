@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-rid&show_icons=true&locale=en" alt="hi-rid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-rid&" alt="hi-rid" /></p>
-
-<img src="https://imgur.com/wJTrg0U" alt"..." />
