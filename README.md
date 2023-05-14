@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-rid&" alt="hi-rid" /></p>
 
-<p><img src="https://imgur.com/wJTrg0U" alt"..." /></p>
+<img src="https://imgur.com/wJTrg0U" alt"..." />
