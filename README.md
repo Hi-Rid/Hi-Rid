@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-rid&label=Profile%20views&color=0e75b6&style=flat" alt="hi-rid" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hi-rid.github.io/Portfolio_Ridho_Ramadhan/](ridhoramadhan.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio/](ridhoramadhan.netlify.app)
 
 - 📫 How to reach me **rridhorramadhan@gmail.com**
 
