@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-rid&label=Profile%20views&color=0e75b6&style=flat" alt="hi-rid" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](ridhoramadhan.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ridhoramadhan.netlify.app/)
 
 - 📫 How to reach me **rridhorramadhan@gmail.com**
 
-- ⚡ Fun fact **Today I Have A Date With K-drama,ㅋㅋㅋ**
+- ⚡ Fun fact : **Today I Have A Date With K-drama,ㅋㅋㅋ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
