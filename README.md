@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ridhoramadhan.netlify.app/)
 
-- 📫 How to reach me **rridhorramadhan@gmail.com**
+- 📫 How to reach me **rridhorramadhann@gmail.com**
 
 - ⚡ Fun fact : **Today I Have A Date With K-drama,ㅋㅋㅋ**
 
